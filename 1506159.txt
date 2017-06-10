@@ -1,5 +1,4 @@
 Nama : Sri H Sekarini
 NPM  : 1506123
-Alamat : Kadungora
 Sekolah : STTGarut
 Jurusan : Teknik Informatika C
